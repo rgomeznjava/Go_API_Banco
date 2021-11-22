@@ -11,3 +11,11 @@ Proposito: Aprendizaje desarrollo en GO, AWS Lambdas..etc
 -  API REST /Cuentas GET/POST
 -  API REST /Movimientos GET/POST
 -  Capa modelo Fake (in memory)
+
+URL AWS - PRUEBAS:
+
+https://d3g1k8jx21.execute-api.us-east-2.amazonaws.com/v1/cuentas
+
+
+https://d3g1k8jx21.execute-api.us-east-2.amazonaws.com/v1/movimientos/11110100889999999993
+
